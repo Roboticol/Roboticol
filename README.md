@@ -5,7 +5,7 @@ Hi, I am a programmer from India. I am a full-stack web developer, game develope
 
 ### My skillset:
 <h3>
-![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py)](https://skillicons.dev)
 </h3>
   
 ### My Top Projects:
