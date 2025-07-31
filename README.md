@@ -5,12 +5,7 @@ Hi, I am a programmer from India. I am a full-stack web developer, game develope
 
 ### My skillset:
 <h3>
-<img width="1822" height="2051" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/6215f06e-316c-4afb-b031-3b6bea3e831f" />
-<img src="https://sololearnuploads.azureedge.net/uploads/courses/1073.png" alt="python icon" width=10%>
-<img src="https://sololearnuploads.azureedge.net/uploads/courses/1080.png" alt="c# icon" width=10%>
-<img src="https://sololearnuploads.azureedge.net/uploads/courses/1024.png" alt="js icon" width=10%>
-<img src="https://sololearnuploads.azureedge.net/uploads/courses/1014.png" alt="html icon" width=10%>
-<img src="https://sololearnuploads.azureedge.net/uploads/courses/1023.png" alt="css icon" width=10%>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,csharp)](https://skillicons.dev)
 </h3>
   
 ### My Top Projects:
