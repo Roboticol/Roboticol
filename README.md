@@ -13,5 +13,6 @@ Hi, I am a programmer from India. I am a full-stack web developer, game develope
 </h3>
   
 ### My Top Projects:
- [Chadflix - A mock-up movie streaming site like Netflix](https://github.com/OishikGuha/chadflix)
- [Romoj - A social media site](https://github.com/OishikGuha/romoj)
+[Chadflix - A mock-up movie streaming site like Netflix](https://github.com/OishikGuha/chadflix)
+
+[Romoj - A social media site](https://github.com/OishikGuha/romoj)
