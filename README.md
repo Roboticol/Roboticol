@@ -10,3 +10,7 @@ Hi, I am a programmer from India. I am a full-stack web developer, game develope
 [Chadflix - A mock-up movie streaming site like Netflix](https://github.com/OishikGuha/chadflix)
 
 [Vegetable Plant Blight Disease Classifier](https://github.com/Roboticol/Vegetable-Plant-Blight-Disease-Classifier)
+
+[Delhi Air Quality Data Analysis](https://github.com/Roboticol/delhi-air-quality-eda)
+
+[Real-Fake news AI classifier | Kaggle](https://www.kaggle.com/code/roboticol/real-fake-news-detection)
