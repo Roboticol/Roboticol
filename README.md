@@ -7,7 +7,6 @@ Hi, I am a programmer from India. I am a full-stack web developer, game develope
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py)](https://skillicons.dev)
   
 ### My Top Projects:
-[Vegetable Plant Blight Disease Classifier](https://github.com/Roboticol/Vegetable-Plant-Blight-Disease-Classifier)
 
 [Delhi Air Quality Data Analysis](https://github.com/Roboticol/delhi-air-quality-eda)
 
