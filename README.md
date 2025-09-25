@@ -8,6 +8,8 @@ Hi, I am a programmer from India. I am a full-stack web developer, game develope
   
 ### My Top Projects:
 
+[Snare - A Music Recommendation AI](https://github.com/Roboticol/Snare-A-Music-recommendation-AI)
+
 [Delhi Air Quality Data Analysis](https://github.com/Roboticol/delhi-air-quality-eda)
 
 [Real-Fake news AI classifier | Kaggle](https://www.kaggle.com/code/roboticol/real-fake-news-detection)
