@@ -8,6 +8,8 @@ Hi, I am a programmer from India. I am a full-stack web developer, game develope
   
 ### My Top Projects:
 
+[RLSTM - An LSTM Model built from scratch in C](https://github.com/Roboticol/RLSTM)
+
 [Snare - A Music Recommendation AI](https://github.com/Roboticol/Snare-A-Music-recommendation-AI)
 
 [Delhi Air Quality Data Analysis](https://github.com/Roboticol/delhi-air-quality-eda)
