@@ -17,7 +17,7 @@ Hi, I am a programmer from India. This is my portfolio.
 #### My skillset:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c,cpp,py)](https://skillicons.dev)
   
-#### My Top Projects
+#### My Top Projects:
 
 - [RLSTM - An LSTM Model built from scratch in C](https://github.com/Roboticol/RLSTM)
 - [Snare - A Music Recommendation AI](https://github.com/Roboticol/Snare-A-Music-recommendation-AI)
