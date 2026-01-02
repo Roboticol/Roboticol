@@ -2,7 +2,7 @@
 
 ### Hello there! my name is Roboticol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjczMzk0MjIsIm5iZiI6MTc2NzMzOTEyMiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAyVDA3MzIwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3Y2VhYjcwMjg1Nzc2M2NmNmU5ZjEzYzdjYjc5YzQxZWFlMDQxMDE1NDBlMmMxNGExNDU3MmUxMTU1YmJjZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.k7H-LmWV6jyji8BgKy5FSxGOLUqCe4NHkN2W9HL47kU" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="side Image" align="right" width="300" height="auto" />
 
 Hi, I am a programmer from India. This is my portfolio.
 - 🏫 Currently studying @ Vivekananda Institute of Professional Studies
